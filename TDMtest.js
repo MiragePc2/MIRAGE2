@@ -1,6 +1,6 @@
 {
-  "Name": "TDM",
-  "Description": "Team Death Match. Битва двух команд",
+  "Name": "Test",
+  "Description": "Test",
   "StartClientVersion": 573,
   "MapFilter": {
     "IsBlank": false,
@@ -8,11 +8,11 @@
   },
   "MapLists": [
     {
-      "MapListId": 324,
-      "Name": "Официальные карты"
+      "MapListId": 0,
+      "Name": "test"
     },
     {
-      "MapListId": 581
+      "MapListId": 0
     }
   ],
   "Parameters": {
